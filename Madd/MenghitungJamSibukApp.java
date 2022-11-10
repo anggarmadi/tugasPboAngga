@@ -102,7 +102,7 @@ public class MenghitungJamSibukApp {
     Elemen e = new Mahasiswa("Nid to pass this sem", 23);     //Upcasting
     Elemen f = new Dosen("Nivotko", 3);           //Upcasting
 
-    /*Baris ke 98 hingga 103 terlihat beberapa objek dengan tipe elemen namun dengan bentung yang
+    /*Baris ke 98 hingga 103 terlihat beberapa objek dengan tipe elemen namun dengan bentuk yang
      * berbeda beda, ada yang sebagai asdos,
      * ada yang sebagai dosen
      * ada yang sebagai mahasiswa
