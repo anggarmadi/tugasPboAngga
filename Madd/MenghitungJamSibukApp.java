@@ -120,8 +120,6 @@ public class MenghitungJamSibukApp {
     // menjumlahkan jam sibuk setiap objek yang dibuat
     int totalJamSibuk = a.getJamSibuk()+b.getJamSibuk()+c.getJamSibuk()+d.getJamSibuk()+e.getJamSibuk()+f.getJamSibuk();
     // menampilkan total jam sibuk seluruh objek
-    System.out.println("Total jam sibuk elemen Fasilkom adalah "+totalJamSibuk);
-    
-    
+    System.out.println("Total jam sibuk elemen Fasilkom adalah "+totalJamSibuk);  
   }
 }
